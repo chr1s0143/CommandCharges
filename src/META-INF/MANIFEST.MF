@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: me.chr1s0143.CommandCharges.Main
-
